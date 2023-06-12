@@ -28,7 +28,7 @@ form {
 .product-details button {
     padding: 0.9rem 3rem 1.1rem;
     cursor: pointer;
-    background-color: transparent;
+    background-color: pink;
     border: 0;
     box-shadow: 0 0 0 0.1rem rgb(106, 116, 116);
     transition: boxshadow 0.1s ease;
